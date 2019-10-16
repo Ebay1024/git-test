@@ -9,4 +9,8 @@ public class GitDemo {
         a += 10;
         System.out.println(a);
     }
+
+    public void anotherPerson(){
+        System.out.println("another person develop");
+    }
 }
