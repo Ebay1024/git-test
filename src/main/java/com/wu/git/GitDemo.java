@@ -12,5 +12,6 @@ public class GitDemo {
 
     public void anotherPerson(){
         System.out.println("another person develop");
+        System.out.println("dev branch add");
     }
 }
